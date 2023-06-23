@@ -1,0 +1,15 @@
+.card-div{
+    display: flex;
+    flex-wrap: wrap;
+   
+    gap: 30px;
+    justify-content: space-between;
+}
+img{
+    height:100px;
+    width: 100px;
+}
+.child-card{
+    font-size: 10px;
+   
+}
